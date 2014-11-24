@@ -6,8 +6,8 @@
     android:id="@+id/watch_view_stub"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    app:rectLayout="@layout/rect_activity_seasons_watch_face"
-    app:roundLayout="@layout/round_activity_seasons_watch_face"
-    tools:context=".SeasonsWatchFace"
+    app:rectLayout="@layout/rect_or_round_activity_zen_watches"
+    app:roundLayout="@layout/rect_or_round_activity_zen_watches"
+    tools:context=".SeasonsWatchFaceActivity"
     tools:deviceIds="wear">
 </android.support.wearable.view.WatchViewStub>
