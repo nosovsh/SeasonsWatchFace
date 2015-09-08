@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.trashgenerator.seasonswatchface" >
+    package="com.trashgenerator.seasonswatchfaceplus" >
 
     <uses-feature android:name="android.hardware.type.watch" />
 
@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:theme="@android:style/Theme.DeviceDefault" >
         <activity
-            android:name=".SeasonsWatchFaceActivity"
+            android:name="com.trashgenerator.seasonswatchfaceplus.SeasonsWatchFaceActivity"
             android:label="@string/app_name"
             android:allowEmbedded="true">
 

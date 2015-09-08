@@ -1,4 +1,4 @@
-package com.trashgenerator.seasonswatchface;
+package com.trashgenerator.seasonswatchfaceplus;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;

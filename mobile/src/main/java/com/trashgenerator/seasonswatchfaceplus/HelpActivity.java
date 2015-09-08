@@ -1,9 +1,7 @@
-package com.trashgenerator.seasonswatchface;
+package com.trashgenerator.seasonswatchfaceplus;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 
 
 public class HelpActivity extends Activity {

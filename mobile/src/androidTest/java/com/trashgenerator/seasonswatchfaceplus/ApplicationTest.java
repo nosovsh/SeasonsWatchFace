@@ -1,4 +1,4 @@
-package com.trashgenerator.seasonswatchface;
+package com.trashgenerator.seasonswatchfaceplus;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
